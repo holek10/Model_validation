@@ -6,4 +6,7 @@ Developed  back in days when I was a consultant in Financial Services Advisory o
 The code is a bit messy since back then I wasn't following any software developers guides.
 Originally it was developed under shiny package 0.7.0 with Bootstrap 2, only recently I've made adjustements to take advanteage of shinyDashboard layout. 
 
+The working application is here:
+https://holek10.shinyapps.io/Model_validation_tool/
+
 Enjoy :)
